@@ -1,0 +1,1 @@
+valgrind --tool=memcheck --leak-check=full ./a.out 0 0 0
